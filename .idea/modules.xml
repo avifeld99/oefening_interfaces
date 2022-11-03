@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oefening1/oefening1.iml" filepath="$PROJECT_DIR$/oefening1/oefening1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oefening2/oefening2.iml" filepath="$PROJECT_DIR$/oefening2/oefening2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oefening3/oefening3.iml" filepath="$PROJECT_DIR$/oefening3/oefening3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oefeningen interfaces.iml" filepath="$PROJECT_DIR$/.idea/oefeningen interfaces.iml" />
+    </modules>
+  </component>
+</project>
